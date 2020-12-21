@@ -1,0 +1,11 @@
+C:\Users\Nastya\source\repos\ISIS_5lb\ISIS_5lb\bin\Debug\ISIS_5lb.exe.config
+C:\Users\Nastya\source\repos\ISIS_5lb\ISIS_5lb\bin\Debug\ISIS_5lb.exe
+C:\Users\Nastya\source\repos\ISIS_5lb\ISIS_5lb\bin\Debug\ISIS_5lb.pdb
+C:\Users\Nastya\source\repos\ISIS_5lb\ISIS_5lb\obj\Debug\ISIS_5lb.csprojAssemblyReference.cache
+C:\Users\Nastya\source\repos\ISIS_5lb\ISIS_5lb\obj\Debug\ISIS_5lb.csproj.ResolveComReference.cache
+C:\Users\Nastya\source\repos\ISIS_5lb\ISIS_5lb\obj\Debug\ISIS_5lb.Form1.resources
+C:\Users\Nastya\source\repos\ISIS_5lb\ISIS_5lb\obj\Debug\ISIS_5lb.Properties.Resources.resources
+C:\Users\Nastya\source\repos\ISIS_5lb\ISIS_5lb\obj\Debug\ISIS_5lb.csproj.GenerateResource.cache
+C:\Users\Nastya\source\repos\ISIS_5lb\ISIS_5lb\obj\Debug\ISIS_5lb.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\source\repos\ISIS_5lb\ISIS_5lb\obj\Debug\ISIS_5lb.exe
+C:\Users\Nastya\source\repos\ISIS_5lb\ISIS_5lb\obj\Debug\ISIS_5lb.pdb
